@@ -1,4 +1,11 @@
-🚩 1주차 목표: 강력한 기초 공사 (Foundation)
+---
+title: "[칸반 프로젝트] 1주차: 기술 스택 선정 및 환경 구축"
+date: 2025-12-09 10:00:00 +0900
+categories: [Project, Kanban Board]
+tags: [react, typescript, vite, zustand, init]
+---
+
+# 1주차 목표: 강력한 기초 공사 (Foundation)
 핵심 테마: 단순한 투두 리스트가 아닌, 복잡한 상태 관리가 가능한 칸반 보드의 아키텍처를 설계하고 개발 환경을 구축한다.
 
 📌 이번 주에 할 일 (Checklist)

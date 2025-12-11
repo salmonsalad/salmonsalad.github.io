@@ -1,4 +1,9 @@
-# [DevLog] 1주차 Day 2: React와 dnd-kit을 활용한 인터랙티브 칸반 보드 개발
+---
+title: "[칸반 프로젝트] 1주차 Day 2: 드래그 앤 드롭(Dnd) 구현"
+date: 2025-12-11 10:00:00 +0900
+categories: [Project, Kanban Board]
+tags: [react, dnd-kit, typescript, troubleshooting]
+---
 
 ## 1. 개요
 본 프로젝트는 **"Interactive Kanban Board"** 개인 포트폴리오 작업의 일환으로 진행되었다.
