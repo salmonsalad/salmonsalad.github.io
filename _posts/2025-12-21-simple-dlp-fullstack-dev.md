@@ -1,9 +1,9 @@
 ---
 title: "[Project] Simple DLP: 민감 정보 탐지를 위한 Full-Stack 웹 서비스 개발기"
-date: 2025-12-21 16:00:00 +0900
+date: 2025-12-21 00:00:00 +0900
 categories: [Project, Security]
 tags: [flask, react, typescript, dlp, security, python, toy-project]
-pin: true
+pin: false
 ---
 
 ## 🔐 프로젝트 개요: Simple DLP의 시작
